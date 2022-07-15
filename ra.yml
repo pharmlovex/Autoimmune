@@ -1,0 +1,20 @@
+name: ra
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - mamba
+  - sra-tools
+  - ca-certificates
+  - certifi
+  - openssl
+  - fastqc
+  - star
+  - fastp
+  - hisat2
+  - stringtie
+  - multiqc
+  - trimmomatic
+  - parallel
+prefix: /root/anaconda3/envs/ra
