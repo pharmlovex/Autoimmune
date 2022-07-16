@@ -1,0 +1,15 @@
+Status	bams/SRR18309707_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309708_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309709_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309710_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309711_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309712_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309713_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309714_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309715_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309716_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309717_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309718_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309719_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309720_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309721_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309722_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309723_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309724_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309725_pass.fastqAligned.sortedByCoord.out.bam	bams/SRR18309726_pass.fastqAligned.sortedByCoord.out.bam
+Assigned	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Unmapped	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	0	29	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
